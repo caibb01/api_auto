@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 31 17:13:33 CST 2023","Wed May 31 17:13:33 CST 2023","503","","Test_excel","","","","test_case_ddt[case_info2]",""
+"passed","Wed May 31 17:13:31 CST 2023","Wed May 31 17:13:33 CST 2023","1589","","Test_excel","","","","test_case_ddt[case_info0]",""
+"passed","Wed May 31 17:13:33 CST 2023","Wed May 31 17:13:33 CST 2023","321","","Test_excel","","","","test_case_ddt[case_info1]",""
